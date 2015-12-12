@@ -1,1 +1,5 @@
-Sample test app so I can test other stuff.
+Sample test nodejs app so I can test docker tooling I am working on.
+
+#### How to run
+
+    docker run -d -P --name node-test-app node-test-app
